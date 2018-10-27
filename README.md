@@ -35,3 +35,23 @@ Llistes de distribució (Grups de google) hi han 4 llistes de distribució
 - Llista fòrum web preguntas i respostes: és un fòrum en el que la gent pregunta i respon. Exemple: pàgina per resoldre dubtes
 - Llista de safata d'entrada: asignar temas a altres persones per que puguin resoldre les tasques
 
+DATEIF - Exemple: DATEIF(B1,Now(),"Y")
+
+If - Exemple: If (Condició) then
+                Cosas()
+eif
+
+Percentatge - Exemple: - Fórmula llarga: 88 * (14/100)
+                       - Fórmula curta: 88 - 0,14
+                       
+Descompte - Exemple: Fórmula curta: Preu - (Preu*0,14)
+                                    Preu * (1-0,14)
+                                    Preu * (0,86)
+                                    
+Recàrrec - Exemple: Preu + (Preu*0,14)
+                    (Preu*1) + (Preu*0,14)
+                    Preu * (1*0,14)
+                    Preu * 0,14
+                    
+Dia sense IVA - Exemple: 100 + (100*0,21) = 100 + 21
+                         100/121 = 82,6     82,6/100 = 17,34 Afegit
