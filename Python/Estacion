@@ -1,0 +1,5 @@
+estacion = input("indique la estacion:")
+temperatura = int (input("indique la temperatura:"))
+hora = int(input("indique la hora:"))
+if  ((estacion = "verano") and (temperatura <=15) and (hora>=0000) and (hora <= 2359)
+  print ("Ponerse pantalon largo")
