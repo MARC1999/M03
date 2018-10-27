@@ -1,0 +1,18 @@
+jubilats = input("indica si pagan:)
+no_jubilats = int(input("indica quant paguen:)
+dones_roses = input("indica si pagen:")
+dones_restants = int( input("indica quant paguen:")
+homes_i_dones = int(input("indica la edad per saber si paguen:"))
+if (edad="jubilats")
+  print("no paga")
+if (edad="no jubilats")
+  print("1")
+if (dona="cabell_ros")
+  print("no paga")
+if (dona="restant")
+  print("0'50")
+if ((edad <5> or (edad<=69)):
+  print("no paga")
+home_i_dona int(input("indique la edad para saber si pagan:")
+if ((edad <=5) or (edad >=65)):
+  print("no paga")
