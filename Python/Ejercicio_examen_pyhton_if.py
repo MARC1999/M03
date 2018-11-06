@@ -14,5 +14,5 @@ else:
   M02= int(input("Indique su nota en M02"))
   M03= int(input("Indique su nota en M03"))
   M05= int(input("Indique su nota en M05"))
-  if(estudiar_mucho="si") and (M01*0,30 + M02*0,40 + M03*0,20 + M05*0,05 >=8)
+  if(estudiar_mucho="si") and (M01*0,30 + M02*0,40 + M03*0,20 + M05*0,050 >=8)
     print(cobraras los 3.000 euros)
