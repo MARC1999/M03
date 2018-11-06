@@ -1,3 +1,9 @@
 Captura de configuració Geanny
 
 https://drive.google.com/open?id=1PMpdM9ttj6e92n_34PYfb_JDVDqZ-Gtk
+
+
+Pasos que hem fet servir per configurar Geanny:
+- Documento->Establecer tipo de archivo->Lenguajes de script->python
+- Editar->Preferencias->Editor->Sangría escriure 4 i seleccionar opció
+- Editar->Preferencias->Editor->Mostrar espais en blanc i fons negre(invertir colors del resaltat de sintaxis)
