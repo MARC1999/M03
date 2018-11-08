@@ -1,6 +1,6 @@
-Anyo= int(input("Indique el anyo en el que estamos")
-Anyo= int(input("Escriba un anyo cualquiera")
-Anyo= int(input("Indique cuanto falta para llegar a 2020")
+Anyo= int(input("Indique el anyo en el que estamos"))
+Anyo= int(input("Escriba un anyo cualquiera"))
+Anyo= int(input("Indique cuanto falta para llegar a 2020"))
 if(anyo_actual==anyo_cualquiera):
   print("Son el mismo anyo")
 else:
