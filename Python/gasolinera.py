@@ -19,7 +19,7 @@ else:
                             print("1.70€")
                         else:
                                  if(gasolina=="Diesel") and (Diesel=="Fast&Furius"):
-                                         print("1.75€")
-                                 else:
+                                         print("1.75€")                               
 litros=int(input("Cuantos litos quieres?")
-importe=abs(Super*litros) or (Sin_Plomo*litros) or (Diesel*litros)
+importe=abs(1,50 or 1,55*litros) or (1,60 or 1,65*litros) or (1,70 or 1,75*litros)
+print("Tienes que pagar",importe)
