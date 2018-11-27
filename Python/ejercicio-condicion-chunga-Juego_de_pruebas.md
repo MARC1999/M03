@@ -1,0 +1,10 @@
+Entrada: -30   Salida: No lo lee
+Entrada: -11   Salida: No lo lee 
+Entrada: -10   Salida: Si lo lee
+Entrada: -6    Salida: Si lo lee
+Entrada: -5    Salida: Si lo lee
+Entrada: 0     Salida: Si lo lee
+Entrada: 6     Salida: Si lo lee
+Entrada: 40    Salida: Si lo lee
+Entrada: 41    Salida: No lo lee
+Entrada: 234   Salida: No lo lee
