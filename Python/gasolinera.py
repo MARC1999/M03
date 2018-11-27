@@ -20,6 +20,6 @@ else:
                         else:
                                  if(gasolina=="Diesel") and (Diesel=="Fast&Furius"):
                                          print("1.75€")                               
-litros=int(input("Cuantos litos quieres?")
-importe=abs(1,50 or 1,55*litros) or (1,60 or 1,65*litros) or (1,70 or 1,75*litros)
-print("Tienes que pagar",importe)
+litros=int(input("Cuantos litros quieres?")
+importe=abs(gasolina*litros)
+print("Tu importe es de", importe)
