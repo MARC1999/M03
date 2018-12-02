@@ -10,4 +10,4 @@ else:
              if(numero<0)
                  print("Este número es negativo")
              else:
-                 print("Este número no es negativo")
+                 print("Este número no es negativo, es positivo")
